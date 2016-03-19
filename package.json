@@ -1,0 +1,12 @@
+{
+  "name": "sgf-loader",
+  "version": "1.0.0",
+  "description": "A Webpack loader for .sgf files",
+  "author": "Evan Purcer <evanpurcer@gmail.com> (http://evnp.ca)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evnp/sgf-loader.git"
+  },
+  "license": "MIT"
+}
