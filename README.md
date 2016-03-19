@@ -1,2 +1,2 @@
 # sgf-loader
-A Webpack loader for Go (and other) game record files. Will load any .sgf (Smart Game Format) file.
+A Webpack loader for Go (and other) game record files in .sgf (Smart Game Format)
